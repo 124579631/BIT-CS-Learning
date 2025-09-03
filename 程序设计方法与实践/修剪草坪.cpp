@@ -16,7 +16,7 @@ int main()
     bool ans = true;
 
     cin >> n >> m;
-    for(int i = 0; i < n; i++)//读取目标草坪高度
+    for(int i = 0; i < n; i++)//
     {
         for(int j = 0; j < m; j++)
         {
