@@ -23,7 +23,7 @@ int main()
             if(a[left] <= a[right])
             {
                 if(a[left] >= l_max)
-                    l_max = a[left];
+                    l_max = a[left]; 
                 else
                     ans += l_max - a[left];
                 
