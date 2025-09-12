@@ -14,6 +14,7 @@ int main()
     {
         string operation;
         cin >> operation;
+
         if(operation == "Arrive")
         {
             string name;
