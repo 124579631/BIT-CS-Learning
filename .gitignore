@@ -1,0 +1,15 @@
+# 忽略 Windows 可执行文件
+*.exe
+
+# 忽略 Linux/macOS 可执行文件（无扩展名）
+*.out
+
+# 忽略编译过程产生的目标文件
+*.o
+*.obj
+
+# 忽略调试符号文件
+*.pdb
+
+# 忽略 VSCode 配置缓存
+.vscode/
